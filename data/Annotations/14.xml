@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>14.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>78</ymin>
+			<xmax>354</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

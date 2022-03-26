@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>1_67.jpg</filename>
+	<path>F:\Data\fireData\1\1_67.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1196</xmin>
+			<ymin>318</ymin>
+			<xmax>1954</xmax>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+</annotation>

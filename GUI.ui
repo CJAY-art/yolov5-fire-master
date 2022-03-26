@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1127</width>
+    <height>861</height>
+   </rect>
+  </property>
+  <property name="acceptDrops">
+   <bool>false</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="video_input">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>40</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>视频文件输入</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="det">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>660</y>
+     <width>141</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>开始检测</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="camera">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>40</y>
+     <width>171</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>摄像头输入</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>40</y>
+     <width>361</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>空</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="frame_label">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>100</y>
+     <width>951</width>
+     <height>541</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <zorder>video_input</zorder>
+  <zorder>camera</zorder>
+  <zorder>label</zorder>
+  <zorder>frame_label</zorder>
+  <zorder>det</zorder>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>video_input</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>push_vid()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>172</x>
+     <y>59</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>375</x>
+     <y>227</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>det</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>begin_det()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>410</x>
+     <y>690</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>375</x>
+     <y>227</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>camera</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>from_camera()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>614</x>
+     <y>47</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>375</x>
+     <y>227</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>push_vid()</slot>
+  <slot>from_camera()</slot>
+  <slot>begin_det()</slot>
+  <slot>stop()</slot>
+ </slots>
+</ui>

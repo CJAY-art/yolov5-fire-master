@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pic (216).jpg</filename>
+	<path>C:\Users\Moses Olafenwa\Documents\AI\Custom Datasets\FIRE DETECTION\dist\images\pic (216).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>66</ymin>
+			<xmax>230</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

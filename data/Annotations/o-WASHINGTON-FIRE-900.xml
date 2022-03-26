@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>o-WASHINGTON-FIRE-900.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\o-WASHINGTON-FIRE-900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>107</ymin>
+			<xmax>821</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

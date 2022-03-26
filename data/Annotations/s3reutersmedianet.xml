@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>s3.reutersmedia.net.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\s3.reutersmedia.net.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>701</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>127</ymin>
+			<xmax>535</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

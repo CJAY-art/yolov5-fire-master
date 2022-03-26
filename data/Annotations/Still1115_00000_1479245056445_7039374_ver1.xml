@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>Still1115_00000_1479245056445_7039374_ver1.0.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\Still1115_00000_1479245056445_7039374_ver1.0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>78</ymin>
+			<xmax>328</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>205</ymin>
+			<xmax>534</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>87</ymin>
+			<xmax>487</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>8679c62af3-lavvuliv.jpg-for-web-normal.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\8679c62af3-lavvuliv.jpg-for-web-normal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>314</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>142</ymin>
+			<xmax>159</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

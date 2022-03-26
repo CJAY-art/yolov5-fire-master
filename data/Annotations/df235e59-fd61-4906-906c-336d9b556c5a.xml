@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vehicle_fire</folder>
+	<filename>df235e59-fd61-4906-906c-336d9b556c5a.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\vehicle_fire\df235e59-fd61-4906-906c-336d9b556c5a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>306</ymin>
+			<xmax>413</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>forest_fire</folder>
+	<filename>37e36ac4-bad9-42c7-8191-e2dfcd07f82a.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\forest_fire\37e36ac4-bad9-42c7-8191-e2dfcd07f82a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>45</ymin>
+			<xmax>772</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

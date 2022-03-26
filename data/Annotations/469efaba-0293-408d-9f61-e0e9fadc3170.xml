@@ -1,0 +1,26 @@
+<annotation>
+	<folder>grassland_fire</folder>
+	<filename>469efaba-0293-408d-9f61-e0e9fadc3170.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\grassland_fire\469efaba-0293-408d-9f61-e0e9fadc3170.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>818</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>194</ymin>
+			<xmax>274</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>incendiu-acoperis.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\incendiu-acoperis.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>9</ymin>
+			<xmax>280</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>138</ymin>
+			<xmax>549</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

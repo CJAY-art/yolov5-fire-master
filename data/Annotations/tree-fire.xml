@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>tree-fire.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\tree-fire.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>442</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>2</ymin>
+			<xmax>550</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

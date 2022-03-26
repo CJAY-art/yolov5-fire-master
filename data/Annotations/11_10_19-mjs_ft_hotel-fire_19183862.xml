@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>11_10_19-mjs_ft_hotel-fire_19183862.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\11_10_19-mjs_ft_hotel-fire_19183862.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>8</ymin>
+			<xmax>245</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>126</ymin>
+			<xmax>430</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>325</ymin>
+			<xmax>447</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>Tornado Of Fire Caught On Tape In Australia Fire Twister.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\Tornado Of Fire Caught On Tape In Australia Fire Twister.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>32</ymin>
+			<xmax>678</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

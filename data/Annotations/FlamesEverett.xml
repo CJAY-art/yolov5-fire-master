@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>FlamesEverett House Fire.transfer_1461845684828_4041471_ver1.0_640_360.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\FlamesEverett House Fire.transfer_1461845684828_4041471_ver1.0_640_360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>14</ymin>
+			<xmax>407</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

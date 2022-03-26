@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>EP-151129597.jpg&amp;MaxW=960&amp;imageVersion=default&amp;NCS_modified=20151124094359.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\EP-151129597.jpg&amp;MaxW=960&amp;imageVersion=default&amp;NCS_modified=20151124094359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>195</ymin>
+			<xmax>562</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

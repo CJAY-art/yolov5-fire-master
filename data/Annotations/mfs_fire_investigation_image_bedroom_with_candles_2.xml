@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>mfs_fire_investigation_image_bedroom_with_candles_2.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\mfs_fire_investigation_image_bedroom_with_candles_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>85</ymin>
+			<xmax>479</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

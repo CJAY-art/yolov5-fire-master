@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>9_2_14_Andrea_Mexico_trash_1050_788_s_c1_c_c.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\9_2_14_Andrea_Mexico_trash_1050_788_s_c1_c_c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>788</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>450</ymin>
+			<xmax>404</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>440</ymin>
+			<xmax>520</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>425</ymin>
+			<xmax>920</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

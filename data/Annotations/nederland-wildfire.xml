@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>nederland-wildfire.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\nederland-wildfire.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>300</ymin>
+			<xmax>1207</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1325</xmin>
+			<ymin>514</ymin>
+			<xmax>1832</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

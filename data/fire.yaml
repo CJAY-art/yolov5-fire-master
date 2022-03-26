@@ -1,0 +1,10 @@
+#path: ../  # dataset root dir
+train: data/images/train  # train images (relative to 'path') 128 images
+val: data/images/val  # val images (relative to 'path') 128 images
+test: data/images/test # test images (optional)
+
+# number of classes
+nc: 1
+
+# class names
+names: ['fire']

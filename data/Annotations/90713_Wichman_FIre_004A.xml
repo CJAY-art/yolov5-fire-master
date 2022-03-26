@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>90713_Wichman_FIre_004A.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\90713_Wichman_FIre_004A.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>471</ymin>
+			<xmax>1480</xmax>
+			<ymax>1212</ymax>
+		</bndbox>
+	</object>
+</annotation>

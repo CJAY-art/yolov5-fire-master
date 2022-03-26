@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2020</folder>
+	<filename>20200713171101.jpg</filename>
+	<path>F:/DataSets/hlw_fire_data/VOC2020/20200713171101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>703</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>7</ymin>
+			<xmax>702</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

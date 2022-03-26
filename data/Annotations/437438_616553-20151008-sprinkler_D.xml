@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>437438_616553-20151008-sprinkler_D.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\437438_616553-20151008-sprinkler_D.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>932</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>32</ymin>
+			<xmax>820</xmax>
+			<ymax>891</ymax>
+		</bndbox>
+	</object>
+</annotation>

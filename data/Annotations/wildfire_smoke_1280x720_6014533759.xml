@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fire images</folder>
+	<filename>wildfire_smoke_1280x720_6014533759.jpg</filename>
+	<path>F:\DataSets\hlw_fire_data\Fire images\wildfire_smoke_1280x720_6014533759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>94</ymin>
+			<xmax>455</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>
